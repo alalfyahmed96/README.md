@@ -89,3 +89,6 @@ This app is ideal for people who want to improve their time management and incre
 - *Support for people with special needs*: Provide features such as audio reading, text magnification, and support for reading devices for the blind.
 
   Choosing these options in your Reminder to do list & planner app design will help create an excellent user experience and make the app a valuable tool for improving personal organization and productivity.
+
+###### Code
+submit50 cs50/problems/2024/x/project
